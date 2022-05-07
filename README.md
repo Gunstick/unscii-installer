@@ -8,7 +8,7 @@ Check if you have the fonts already available here: https://en.wikipedia.org/wik
 
 No root required
 
-If you need systemwide installation, open a ticket.
+If you need systemwide installation, open an issue in git.
 
 # Before installation:
 

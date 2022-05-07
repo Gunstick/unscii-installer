@@ -1,5 +1,6 @@
 #!/bin/bash
 # (c) Gunstick/ULM 2022 GPL v3.0
+# https://github.com/Gunstick/unscii-installer
 while read fonturl
 do
   wget -q -O "$(basename "$fonturl")" --show-progress "$fonturl"
