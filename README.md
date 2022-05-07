@@ -27,6 +27,7 @@ Terminal:
 ![after terminal](https://github.com/Gunstick/unscii-installer/raw/main/after-installation-terminal.png)
 
 Browser:
+
 ![after browser](https://github.com/Gunstick/unscii-installer/raw/main/after-installation-browser.png)
 
 
