@@ -10,12 +10,23 @@ No root required
 
 If you need systemwide installation, open a ticket.
 
-Before installation:
+# Before installation:
+
+Terminal:
+
 ![before terminal](https://github.com/Gunstick/unscii-installer/raw/main/before-installation-terminal.png)
+
+Browser:
+
 ![before browser](https://github.com/Gunstick/unscii-installer/raw/main/before-installation-browser.png)
 
-After installation
+# After installation
+
+Terminal:
+
 ![after terminal](https://github.com/Gunstick/unscii-installer/raw/main/after-installation-terminal.png)
+
+Browser:
 ![after browser](https://github.com/Gunstick/unscii-installer/raw/main/after-installation-browser.png)
 
 
